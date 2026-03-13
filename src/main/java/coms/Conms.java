@@ -11,5 +11,6 @@ package coms;
 public class Conms {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        new Console().initialize(true);
     }
 }
